@@ -1,0 +1,10 @@
+form{
+  font-family: "Verdana", serif;
+  text-align: center;
+  font-size: 100%;
+  padding-top: 100px;
+  color: white;
+}
+body{
+  background-image: url("pastel2.png");
+}
